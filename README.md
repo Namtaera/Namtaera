@@ -13,7 +13,7 @@
 * 🎓 Major: Data Science (Korea University)
 * 💻 Interested in Backend, Cloud, Data Engineering, Security
 * 🔐 Currently studying: Spring Boot, Database, Cloud, Security
-* ✉️ Email: [skaqhfk00@gmail.com](skaqhfk00@naver.com)
+* ✉️ Email: [skaqhfk00@naver.com](skaqhfk00@naver.com)
 
 ---
 ### 🛠️ Skills
