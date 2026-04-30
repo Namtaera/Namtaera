@@ -14,6 +14,7 @@
 * 💻 Interested in Backend, Cloud, Data Engineering, Security
 * 🔐 Currently studying: Spring Boot, Database, Cloud, Security
 * ✉️ Email: [skaqhfk00@naver.com](skaqhfk00@naver.com)
+* 📚 StudyBlog: https://bora-ovo.tistory.com/
 
 ---
 ### 🛠️ Skills
