@@ -1,17 +1,88 @@
-<a href="https://nambora-portfolio.vercel.app/"><img src="https://nambora-portfolio.vercel.app/readme/hero.svg" width="100%" alt="만드는 법을 알기에, 무너지는 곳이 보여요. 모의해킹과 백엔드에 관심이 많은 남보라예요."></a>
+<h1 align="center">Hi 👋, I'm Bora</h1>
+<h3 align="center">Offensive Security | Backend</h3>
 
-<a href="https://nambora-portfolio.vercel.app/"><img src="https://nambora-portfolio.vercel.app/readme/btn-portfolio.svg" height="48" alt="포트폴리오 보기"></a>&nbsp;
-<a href="https://bora-ovo.tistory.com/"><img src="https://nambora-portfolio.vercel.app/readme/btn-blog.svg" height="48" alt="블로그"></a>&nbsp;
-<a href="mailto:skaqhfk00@naver.com"><img src="https://nambora-portfolio.vercel.app/readme/btn-mail.svg" height="48" alt="이메일 보내기"></a>
+<p align="center">
+  🔐 Passionate about Penetration Testing, Secure Coding & Backend <br>
+  📍 Seoul, South Korea
+</p>
 
-<img src="https://nambora-portfolio.vercel.app/readme/stats.svg" width="100%" alt="최종프로젝트 1위 · 찾아낸 취약점 38개 · 직접 고친 취약점 68건">
+<p align="center">
+  <a href="https://nambora-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://bora-ovo.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="mailto:skaqhfk00@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+</p>
 
-<img src="https://nambora-portfolio.vercel.app/readme/history.svg" width="100%" alt="이력 — SK쉴더스 루키즈 32기(2026.04–10), 명지대학교 데이터사이언스학과(2020.03–2026.02)">
+---
 
-<img src="https://nambora-portfolio.vercel.app/readme/awards.svg" width="100%" alt="수상 — 슈퍼루키상(대상) 2026.10, 성적 우수자 2026, 창의적 SW프로그램 경진대회 대상 2025.10">
+### 👩‍💻 About Me
 
-<img src="https://nambora-portfolio.vercel.app/readme/skills.svg" width="100%" alt="기술 — Burp Suite, JADX, Postman, Java, Spring Boot, MySQL, Oracle, PostgreSQL, Python 외">
+* 🎓 B.S. in Data Science, Myongji University (2020.03 – 2026.02)
+* 🛡️ SK Shieldus Rookies 32nd — Penetration Testing & Vulnerability Assessment
+* 🔍 Interested in Penetration Testing (Web · Mobile · Cloud), Secure Coding, Backend
+* 💡 I build services myself, so I can see where they break — and suggest how to fix them in code
+* 🌐 Portfolio: [nambora-portfolio.vercel.app](https://nambora-portfolio.vercel.app/)
+* 📚 Study Blog: [bora-ovo.tistory.com](https://bora-ovo.tistory.com/)
+* ✉️ Email: [skaqhfk00@naver.com](mailto:skaqhfk00@naver.com)
 
-<a href="https://nambora-portfolio.vercel.app/work/kidhack-pentest/"><img src="https://nambora-portfolio.vercel.app/readme/p-kidhack.svg" width="50%" alt="KidHack 모의해킹"></a><a href="https://nambora-portfolio.vercel.app/work/kidhack-secure-coding/"><img src="https://nambora-portfolio.vercel.app/readme/p-securecoding.svg" width="50%" alt="KidHack 시큐어코딩"></a>
+---
 
-<a href="https://nambora-portfolio.vercel.app/work/thingo/"><img src="https://nambora-portfolio.vercel.app/readme/p-thingo.svg" width="50%" alt="Thingo"></a><a href="https://nambora-portfolio.vercel.app/work/vincent/"><img src="https://nambora-portfolio.vercel.app/readme/p-vincent.svg" width="50%" alt="Vincent 2.0"></a>
+### 🛠️ Skills
+
+**Security**<br>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JADX-3C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frida-EF6456?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20CLI-232F3E?style=for-the-badge"/>
+
+**Backend**<br>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+**Database**<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+**Cloud & DevOps**<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+**Mobile · Data & AI**<br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+---
+
+### 🛡️ Experience
+
+**SK Shieldus Rookies 32nd** &nbsp;·&nbsp; `2026.04 – 2026.10`<br>
+<sub>Penetration Testing & Vulnerability Assessment Program</sub>
+
+* 🧩 Final project **KidHack** (8 weeks, team of 10) — Backend · Mobile · Design PL
+* 🔎 Mobile & Cloud (AWS) vulnerability assessment — found 38 vulnerable items out of 67 checks
+* ⚔️ Ran the Mobile · API attack scenario and reproduced the other two scenarios
+* 🛠️ Secure coding — fixed 68 of 70 findings and re-tested them with the same attacks
+
+---
+
+### 🏆 Awards
+
+| Award | Details | Date |
+| :-- | :-- | :-- |
+| 🥇 **Super Rookie Award** | SK Shieldus Rookies 32nd · Final project 1st place | 2026.10 |
+| 🎖️ **Top Performer** | SK Shieldus Rookies 32nd · Top 20% of 50 trainees | 2026 |
+| 🥇 **Grand Prize** | Myongji Univ. Creative SW Contest · Thingo | 2025.10 |
